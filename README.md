@@ -1,1 +1,1 @@
-# Disocrd
+# Discord
